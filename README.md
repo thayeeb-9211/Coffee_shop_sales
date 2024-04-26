@@ -52,6 +52,11 @@ This project uses data-driven insights to optimize business operations and custo
 6. **Visualizations:** Create compelling visualizations to clearly communicate findings.
 7. **Dashboard Development:** Design an interactive dashboard in MsExcel using Charts.
 
+
+## DASHBOARD 
+
+![image](https://github.com/thayeeb-9211/Coffee_shop_sales/assets/158462007/09eb78c2-f565-42eb-bc53-4cf6bbb13096)
+
 ## Contact
 
 For questions or collaboration: [devgenius9211@gmail.com ] 
